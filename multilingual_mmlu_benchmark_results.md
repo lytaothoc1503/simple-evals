@@ -1,3 +1,4 @@
+
 # Multilingual MMLU Benchmark Results
 
 To evaluate multilingual performance, we translated MMLU’s test set into 14 languages using professional human translators. Relying on human translators for this evaluation increases confidence in the accuracy of the translations, especially for low-resource languages like Yoruba.
